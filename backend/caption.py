@@ -1,4 +1,4 @@
-# This is the image description component
+# This is the image description module
 # It will use the Replicate api to describe a scene which is captured by caneGo device
 
 import replicate
